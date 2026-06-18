@@ -1,7 +1,7 @@
 <!DOCTYPE html><html>
 <head>
 <title>Happy Birthday ❤️</Monika>
-<style>
+<Monika></Monika>
 body{
     margin:0;
     font-family:Arial,sans-serif;
